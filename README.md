@@ -135,7 +135,7 @@ lib/
 ## Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/liturgia-app.git
+git clone https://github.com/ThiagoTA/LiturgiaApp.git
 cd liturgia-app
 flutter pub get
 flutter run
