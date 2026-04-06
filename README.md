@@ -10,8 +10,10 @@ O foco do projeto é oferecer uma experiência fluida mesmo sem conexão com a i
 <p align="center">
   <img src="assets/preview1.png" width="250"/>
   <img src="assets/preview2.png" width="250"/>
+  <img src="assets/preview3.png" width="250"/>
+  <img src="assets/preview4.png" width="250"/>
+  <img src="assets/preview5.png" width="250"/>
 </p>
-
 ---
 
 ## Funcionalidades
